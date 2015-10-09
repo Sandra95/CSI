@@ -1,0 +1,24 @@
+The LLL Algorithm
+->https://en.wikipedia.org/wiki/Lenstra%E2%80%93Lenstra%E2%80%93Lov%C3%A1sz_lattice_basis_reduction_algorithm
+->http://www.math.ru.nl/~bosma/onderwijs/voorjaar07/compalg7.pdf
+->http://www.math.unicaen.fr/~simon/maths/lll25_Simon.pdf
+->
+
+Linear Dependencies
+->
+->
+->
+->
+
+Coppersmith Algorithm
+->https://en.wikipedia.org/wiki/Coppersmith_method
+->https://en.wikipedia.org/wiki/Coppersmith's_Attack
+->
+->
+
+Lattices
+->http://www.ime.unicamp.br/~campello/geometria/maiara.pdf
+->https://books.google.pt/books?hl=pt-PT&lr=&id=-HjrBwAAQBAJ&oi=fnd&pg=PR9&dq=lattices+cryptography&ots=ouE9d3F9N8&sig=ACaSUZ1YlTKWU3eg4Wy3oxKq5JU&redir_esc=y#v=onepage&q=lattices%20cryptography&f=false
+
+
+
